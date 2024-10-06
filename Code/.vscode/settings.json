@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.json": "json",
+        "iostream": "cpp",
+        "sha1.h": "c"
+    }
+}
